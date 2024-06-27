@@ -19,10 +19,10 @@ git config --global user.email "example@gmail.com"
 You can upload your modified file to GitHub.
 
 ```
-cd existing_repo **# 만들어둔 개인 폴더로 이동**
-git remote add origin https://github.com/softverse-1.git **# origin 부분은 Git의 별칭 지정**
-git branch -M main **# Git의 기본 브랜치 이름을 main으로 변경(master로 되어 있는 경우에만)**
-git push -uf origin main **# 나의 파일을 main에 업로드 (이 부분은 좀 더 수정 및 보완 예정)**
+cd existing_repo <!--# 만들어둔 개인 폴더로 이동-->
+git remote add origin https://github.com/softverse-1.git <!--# origin 부분은 Git의 별칭 지정-->
+git branch -M main <!--# Git의 기본 브랜치 이름을 main으로 변경(master로 되어 있는 경우에만)-->
+git push -uf origin main <!--# 나의 파일을 main에 업로드 (이 부분은 좀 더 수정 및 보완 예정)-->
 ```
 
 ## 파일 다운로드(Download GitHub Files)
@@ -30,6 +30,6 @@ git push -uf origin main **# 나의 파일을 main에 업로드 (이 부분은 �
 You can download the latest status of files uploaded to GitHub.
 
 ```
-git pull origin main **# main 항목을 나의 파일에 다운로드**
+git pull origin main <!--# main 항목을 나의 파일에 다운로드-->
 ```
 
