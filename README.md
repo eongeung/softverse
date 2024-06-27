@@ -1,4 +1,4 @@
-# ![image](https://github.com/HnueeJimin/softverse/assets/171033088/5ec6b8e3-b85a-4b55-a64c-3ed47f4aa4c0)
+# ![image](https://github.com/HnueeJimin/softverse/assets/171033088/5ec6b8e3-b85a-4b55-a64c-3ed47f4aa4c0) Dev
 
 
 ## Getting started
