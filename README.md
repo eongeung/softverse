@@ -22,7 +22,9 @@ You can upload your modified file to GitHub.
 cd existing_repo -> 만들어둔 개인 폴더로 이동
 git remote add origin https://github.com/softverse-1.git -> origin 부분은 Git의 별칭 지정
 git branch -M main -> Git의 기본 브랜치 이름을 main으로 변경(master로 되어 있는 경우에만, 할 필요 없음)
-git push -uf origin main -> 나의 파일을 main에 업로드 (이 부분은 좀 더 수정 및 보완 예정)
+git add <file-name> -> 나의 로컬 파일 선택
+git commit -m "커밋 내용" -> 변경 사항에 대하여 명시
+git push origin develop -> 나의 파일을 develop에 업로드
 ```
 
 ## 파일 다운로드(Download GitHub Files)
