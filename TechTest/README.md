@@ -8,7 +8,7 @@ git switch main -> main 브랜치로 이동
 git merge develop -> develop 브랜치의 변경 사항을 main과 병합
 git commit -m "병합 후 커밋"
 ```
-
+리드미추가
 
 
 
